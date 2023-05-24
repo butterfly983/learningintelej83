@@ -10,11 +10,10 @@ public class KLASA {
         System.out.println("Learning Git");
         System.out.println("adding commits using Intellj");
         System.out.println("Sanja");
-        
-
-
-
     }
+
+    private int a=5;
+
     private int age =6;
 
     public static void sayHello(String name){
