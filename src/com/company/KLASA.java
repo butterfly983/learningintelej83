@@ -9,8 +9,10 @@ public class KLASA {
         sayGoodBye("Maja");
         System.out.println("Learning Git");
         System.out.println("adding commits using Intellj");
-        System.out.println("Sanja");
+        System.out.println("Hello Sanja");
+        System.out.println("test");
         
+
 
 
 
