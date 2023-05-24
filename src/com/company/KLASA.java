@@ -10,6 +10,8 @@ public class KLASA {
         System.out.println("Learning Git");
         System.out.println("adding commits using Intellj");
         System.out.println("Sanja");
+        System.out.println("test revert");
+
     }
 
     private int a=5;
