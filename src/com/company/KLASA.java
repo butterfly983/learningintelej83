@@ -11,6 +11,8 @@ public class KLASA {
         System.out.println("adding commits using Intellj");
         System.out.println("Sanja");
         System.out.println("test revert");
+        System.out.println("learning git commands");
+
 
     }
 
