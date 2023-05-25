@@ -8,6 +8,7 @@ public class Regstrationtest {
         System.out.println("added first positive test");
         System.out.println("test");
 
+        System.out.println("added last test");
     }
 
 
