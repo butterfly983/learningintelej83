@@ -6,6 +6,8 @@ public class Regstrationtest {
         //adding automation test
 
         System.out.println("added first positive test");
+        System.out.println("test");
+
     }
 
 
